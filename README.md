@@ -1,4 +1,4 @@
-# Segmentation Of Credit Card-Customers
+# Segmentation Of Credit Card Customers
 ### DATA AVAILABLE: 
  CC GENERAL.csv 
 
